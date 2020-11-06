@@ -1,0 +1,46 @@
+.navbar {
+	background-image: url("nav1.jpg");
+	cursor: url(https://cur.cursors-4u.net/anime/ani-10/ani981.cur), auto !important;
+}
+a {
+	cursor: url(https://cur.cursors-4u.net/anime/ani-10/ani981.cur), auto !important;
+}
+body{
+	cursor: url(https://cur.cursors-4u.net/special/spe-2/spe114.cur), auto !important;
+}
+
+
+.jumbotron-with-background {
+    background-image: url("nav2.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron {
+	background-image: url("jumbo2.gif");
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    color: white;
+}
+.cad{
+	cursor: url(https://cur.cursors-4u.net/anime/ani-11/ani1036.cur), auto !important;
+}
+.btn {
+	cursor: url(https://cur.cursors-4u.net/anime/ani-10/ani981.cur), auto !important;
+}
+  .faFacebook, .faLinkedin, .faInstagram{
+      color: red;
+  }
+  
+  .faFacebook:hover{
+    color: #3b5998;
+  }
+  
+  .faLinkedin:hover{
+  color: #0072b1;
+  }
+  
+  .faInstagram:hover{
+  color: #C13584;
+  }
